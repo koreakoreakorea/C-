@@ -1,0 +1,40 @@
+#include <stdio.h>
+
+int main( )
+{
+//	int num1,num2;
+//	printf("숫자를 입력하세요:");
+//	scanf("%d %d",&num1,&num2);
+//	printf("%d + %d = %d\n",num1,num2,num1 + num2 );
+//	printf("%d - %d = %d\n",num1,num2,num1 - num2);
+//	printf("%d * %d = %d\n",num1,num2,num1 * num2);
+//	printf("%d / %d = %d",num1,num2,num1 / num2);
+	
+//	int a1,a2;
+//	float left,right;
+//
+//	printf("왼쪽 시력을 입력 하세요:");
+//	scanf("%f",&left);
+//	printf("오른쪽 시력을 입력 하세요:");
+//	scanf("%f",&right);
+//	printf("오른쪽:%.1f,왼쪽:%.1f",right,left); 
+
+
+//	int v;
+//	float fl;
+//	
+//	printf("키:\n");
+//	scanf("%f %d",&fl,&v);
+//	printf("키:%.2f\n",fl);
+//	printf("몸무게:%d",v);
+
+
+//	int g,c,n;
+//	
+//	printf("학년:");
+//	scanf("%d",&g);
+//	printf("반:");
+//	scanf("%d",&c);
+//	printf("번호:");
+//	scanf("%d",&n);
+//	printf("%d학년%d반%d번",g,c,n); 
