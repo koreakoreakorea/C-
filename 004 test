@@ -1,0 +1,41 @@
+#include <stdio.h>
+
+int main( )
+{
+//	int a;
+//	int b; 
+//	scanf("%d %d",&a,&b);
+//	printf("%d + %d = %d",a,b,a + b); 
+
+
+//	printf("\"천재는1%%의 영감과 99%%의 노력으로 이루어진다\"\n");
+//	printf("     -토마스 에디슨");
+	
+	
+//	int a;
+//	int b;
+//	scanf("%d %d",&a,&b);
+//	printf("정수%d : %d\n",a,a);
+//	printf("정수%d : %d\n\n\n",b,b);
+//	printf("%d + %d = %d\n",a,b,a+b);
+//	printf("%d - %d = %d\n",a,b,a-b);
+//	printf("%d * %d = %d\n",a,b,a*b);
+//	printf("%d / %d = %d",a,b,a/b);	
+
+
+//	int a;
+//	scanf("세자리 정수를 입력하세요:%d",&a);
+//	printf("%d + %d + %d = %d",a);
+
+	int a;
+	scanf("%d",&a);
+	int b,c,d;
+	b = a/100;
+	c = a%100 / 10;
+	d = a%10;
+	
+	printf("%d + %d + %d = %d\n",b,c,d,b+c+d);
+	printf("%d * %d * %d = %d",b,c,d,b+c*d);
+
+	
+}
